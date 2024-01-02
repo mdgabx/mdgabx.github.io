@@ -11,7 +11,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
     <div className="container-fluid mx-auto">
       <Navbar />
-      <div className="container mb-10">{children}</div>
+      <div className="container mb-10 mx-auto w-full">{children}</div>
       <ToastContainer 
         position="top-right"
         autoClose={5000}

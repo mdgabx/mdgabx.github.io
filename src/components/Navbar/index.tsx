@@ -95,7 +95,7 @@ const Navbar = () => {
           </NavLink>
           <a
             className="block px-12 py-2 hover:bg-teal-700 rounded"
-            href="../../src/assets/resume/mdgabx-cv.pdf"
+            href="./resume/mdgabx-cv.pdf"
             download="markcv.pdf"
           >
             <button type="button" className="text-green-600">
