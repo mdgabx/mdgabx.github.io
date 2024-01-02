@@ -96,7 +96,7 @@ const Projects = () => {
           </h2>
           <div className="container flex flex-row items-center justify-center mx-auto w-full">
             {projects.length === 0 ? (
-              <div className="flex items-center justify-center w-100">
+              <div className="flex items-center justify-center w-full">
                 <ClipLoader
                   color="#111"
                   loading={true}

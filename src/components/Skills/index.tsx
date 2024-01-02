@@ -35,7 +35,7 @@ const Skills = () => {
             skills.map((skill) => (
               <div
                 key={skill.id}
-                className="flex flex-col items-center justify-center font-quicksand px-4"
+                className="flex flex-col items-center justify-center font-quicksand px-4 w-full"
               >
                 <img
                   src={`./logos/${skill.logo}`}
