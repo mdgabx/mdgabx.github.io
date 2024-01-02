@@ -38,7 +38,7 @@ const Skills = () => {
                 className="flex flex-col items-center justify-center font-quicksand px-4"
               >
                 <img
-                  src={`./assets/logos/${skill.logo}`}
+                  src={`../../assets/logos/${skill.logo}`}
                   alt={skill.logo}
                   width="60px"
                   height="50px"
