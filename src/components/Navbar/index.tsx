@@ -60,7 +60,7 @@ const Navbar = () => {
           >
             Home
           </NavLink>
-          <a href="../../src/assets/resume/mdgabx-cv.pdf" download="markcv.pdf">
+          <a href="./resume/mdgabx-cv.pdf" download="markcv.pdf">
             <button type="button" className="text-green-600">
               Download CV
             </button>
