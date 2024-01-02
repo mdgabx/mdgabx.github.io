@@ -42,7 +42,7 @@ const Projects = () => {
             </h3>
             <img
               className="rounded mx-auto"
-              src={`../src/assets/projects/${project.image}`}
+              src={`./projects/${project.image}`}
               alt={project.name}
               style={{ width: "100%", height: "auto" }}
             />
