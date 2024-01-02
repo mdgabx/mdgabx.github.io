@@ -1,0 +1,85 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Todo React + Typescript",
+            "description": "A todo app with react.js and typescript",
+            "technologies": ["React", "Typescript", "Tailwind", "CSS", "HTML", "Javascript"],
+            "projectUrl": "https://wdbsa-todo-typescript.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/todo-typescript-with-react",
+            "image": "todo-typescript.png"
+        },
+        {
+            "id": 2,
+            "name": "Meal App",
+            "description": "A sample meal application to practice fetch api and creating react app with Sass and bootstrap.",
+            "technologies": ["React", "Sass", "Bootstrap", "CSS", "HTML", "Javascript"],
+            "projectUrl": "https://wdbsa-meal-app.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/meal-app",
+            "image": "meal-app.png"
+        },
+        {
+            "id": 3,
+            "name": "Drum Machine",
+            "description": "Third challenge in Freecodecamp to attain the Front end Development Certification",
+            "technologies": ["React", "Sass", "CSS", "HTML", "Javascript"],
+            "projectUrl": "https://wdbsa-drum-machine.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/drum-machine",
+            "image": "drum-machine.png"
+        },
+        {
+            "id": 4,
+            "name": "Markdown Previewer",
+            "description": "Second challenge in Freecodecamp to attain the Front end Development Certification",
+            "technologies": ["React", "Sass", "CSS", "HTML", "Javascript"],
+            "projectUrl": "https://wdbsa-markdown-previewer.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/markdown-previewer",
+            "image": "markdown-previewer.png"
+        },
+        {
+            "id": 5,
+            "name": "Quote Generator",
+            "description": "First challenge in Freecodecamp to attain the Front end Development Certification",
+            "technologies": ["React", "Sass", "CSS", "HTML", "Javascript"],
+            "projectUrl": "https://wdbsa-quote-generator.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/wdbsa-quote-generator",
+            "image": "quote-generator.png"
+        },
+        {
+            "id": 6,
+            "name": "Choropleth",
+            "description": "Third challenge in Freecodecamp to attain the Data Visualization Certification",
+            "technologies": ["React", "Sass", "CSS", "HTML", "Javascript", "D3"],
+            "projectUrl": "https://wdbsa-choropleth.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/choropleth-fcc",
+            "image": "choropleth.png"
+        },
+        {
+            "id": 7,
+            "name": "Heat Map",
+            "description": "Second challenge in Freecodecamp to attain the Data Visualization Certification",
+            "technologies": ["React", "Sass", "CSS", "HTML", "Javascript", "D3"],
+            "projectUrl": "https://wdbsa-heat-map.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/fcc-d3-heat-map",
+            "image": "heat-map.png"
+        },
+        {
+            "id": 8,
+            "name": "Bar Chart",
+            "description": "First challenge in Freecodecamp to attain the Data Visualization Certification",
+            "technologies": ["React", "Sass", "CSS", "HTML", "Javascript", "D3"],
+            "projectUrl": "https://bar-chart-wdbsa.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/fcc-bar-chart",
+            "image": "bar-chart.png"
+        },
+        {
+            "id": 9,
+            "name": "25 + 5 clock",
+            "description": "An alarm timer web app",
+            "technologies": ["CSS", "HTML", "Javascript"],
+            "projectUrl": "https://mdgabx.github.io/25-plus-5-clock/",
+            "githubUrl": "https://github.com/mdgabx/25-plus-5-clock",
+            "image": "alarm.png"
+        }
+    ]
+}
