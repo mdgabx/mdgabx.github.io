@@ -106,7 +106,10 @@ const Projects = () => {
               </div>
             ) : (
               <div className="relative flex flex-col">
-                {projects.map((project) => (
+                {projects
+                .slice()
+                .sort((a, b) => b.id - a.id)
+                .map((project) => (
                   <ProjectCard key={project.id} project={project} />
                 ))}
               </div>

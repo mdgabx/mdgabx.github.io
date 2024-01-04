@@ -80,6 +80,15 @@
             "projectUrl": "https://mdgabx.github.io/25-plus-5-clock/",
             "githubUrl": "https://github.com/mdgabx/25-plus-5-clock",
             "image": "alarm.png"
+        },
+        {
+            "id": 10,
+            "name": "Portfolio Website",
+            "description": "My personal portfolio website",
+            "technologies": ["HTML", "CSS", "React", "Leaflet", "EmailJS", "axios", "Tailwind", "Typescript"],
+            "projectUrl": "https://wdbsa.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/mdgabx.github.io",
+            "image": "portfolio.png"
         }
     ]
 }
