@@ -91,10 +91,10 @@
             "image": "portfolio.png"
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "Book Records",
             "description": "A MERN stack simple CRUD project for learning deployment in render and netlify",
-            "technologies": ["HTML", "CSS", "ReactJS", "MongoDB", "", "Axios", "Tailwind", "NodeJS", "ExpressJS"],
+            "technologies": ["HTML", "CSS", "ReactJS", "MongoDB", "Axios", "Tailwind", "NodeJS", "ExpressJS"],
             "projectUrl": "https://mdgabx-book-crud.netlify.app/",
             "githubUrl": "https://github.com/mdgabx/book-store/",
             "image": "book-crud.png"
