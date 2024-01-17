@@ -85,10 +85,19 @@
             "id": 10,
             "name": "Portfolio Website",
             "description": "My personal portfolio website",
-            "technologies": ["HTML", "CSS", "React", "Leaflet", "EmailJS", "axios", "Tailwind", "Typescript"],
+            "technologies": ["HTML", "CSS", "React", "Leaflet", "EmailJS", "Axios", "Tailwind", "Typescript"],
             "projectUrl": "https://wdbsa.netlify.app/",
             "githubUrl": "https://github.com/mdgabx/mdgabx.github.io",
             "image": "portfolio.png"
+        },
+        {
+            "id": 10,
+            "name": "Book Records",
+            "description": "A MERN stack simple CRUD project for learning deployment in render and netlify",
+            "technologies": ["HTML", "CSS", "ReactJS", "MongoDB", "", "Axios", "Tailwind", "NodeJS", "ExpressJS"],
+            "projectUrl": "https://mdgabx-book-crud.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/book-store/",
+            "image": "book-crud.png"
         }
     ]
 }
