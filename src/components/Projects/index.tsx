@@ -52,9 +52,7 @@ const Projects = () => {
                 return (
                   <span
                     key={idx}
-                    className="inline-block bg-gray-300 rounded-xl px-2 py-1 text-xs
-                                        mx-1
-                                    "
+                    className="inline-block bg-gray-300 rounded-xl px-2 py-1 text-xs mx-1 my-2"
                   >
                     {tech}
                   </span>
