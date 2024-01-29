@@ -30,7 +30,7 @@ const Skills = () => {
         <h2 className="text-2xl font-poppins border-b border-gray-300 py-2">
           Technologies and Frameworks
         </h2>
-        <div className="p-2 md:p-10 grid grid-cols-2 lg:grid-cols-5 gap-4 mx-auto">
+        <div className="p-2 md:p-10 grid grid-cols-2 lg:grid-cols-5 gap-4 mx-auto w-full">
           {Array.isArray(skills) && skills.length > 0 ? (
             skills.map((skill) => (
               <div
