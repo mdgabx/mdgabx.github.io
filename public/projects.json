@@ -47,33 +47,6 @@
         },
         {
             "id": 6,
-            "name": "Choropleth",
-            "description": "Third challenge in Freecodecamp to attain the Data Visualization Certification",
-            "technologies": ["React", "Sass", "CSS", "HTML", "Javascript", "D3"],
-            "projectUrl": "https://wdbsa-choropleth.netlify.app/",
-            "githubUrl": "https://github.com/mdgabx/choropleth-fcc",
-            "image": "choropleth.png"
-        },
-        {
-            "id": 7,
-            "name": "Heat Map",
-            "description": "Second challenge in Freecodecamp to attain the Data Visualization Certification",
-            "technologies": ["React", "Sass", "CSS", "HTML", "Javascript", "D3"],
-            "projectUrl": "https://wdbsa-heat-map.netlify.app/",
-            "githubUrl": "https://github.com/mdgabx/fcc-d3-heat-map",
-            "image": "heat-map.png"
-        },
-        {
-            "id": 8,
-            "name": "Bar Chart",
-            "description": "First challenge in Freecodecamp to attain the Data Visualization Certification",
-            "technologies": ["React", "Sass", "CSS", "HTML", "Javascript", "D3"],
-            "projectUrl": "https://bar-chart-wdbsa.netlify.app/",
-            "githubUrl": "https://github.com/mdgabx/fcc-bar-chart",
-            "image": "bar-chart.png"
-        },
-        {
-            "id": 9,
             "name": "25 + 5 clock",
             "description": "An alarm timer web app",
             "technologies": ["CSS", "HTML", "Javascript"],
@@ -82,7 +55,7 @@
             "image": "alarm.png"
         },
         {
-            "id": 10,
+            "id": 7,
             "name": "Portfolio Website",
             "description": "My personal portfolio website",
             "technologies": ["HTML", "CSS", "React", "Leaflet", "EmailJS", "Axios", "Tailwind", "Typescript"],
@@ -91,7 +64,7 @@
             "image": "portfolio.png"
         },
         {
-            "id": 11,
+            "id": 8,
             "name": "Book Records",
             "description": "A MERN stack simple CRUD project for learning deployment in render and netlify",
             "technologies": ["HTML", "CSS", "ReactJS", "MongoDB", "Axios", "Tailwind", "NodeJS", "ExpressJS"],
@@ -100,7 +73,7 @@
             "image": "book-crud.png"
         },
         {
-            "id": 12,
+            "id": 9,
             "name": "Workout App",
             "description": "A MERN stack + typescript simple CRUD project for learning redux toolkit and use libraries such as react hook form, react-spinners and etc",
             "technologies": ["ReactJS", "MongoDB", "Axios", "Tailwind", "NodeJS", "ExpressJS", "Typescript", "react-hook-form"],
