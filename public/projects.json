@@ -98,6 +98,15 @@
             "projectUrl": "https://mdgabx-book-crud.netlify.app/",
             "githubUrl": "https://github.com/mdgabx/book-store/",
             "image": "book-crud.png"
+        },
+        {
+            "id": 12,
+            "name": "Workout App",
+            "description": "A MERN stack + typescript simple CRUD project for learning redux toolkit and use libraries such as react hook form, react-spinners and etc",
+            "technologies": ["ReactJS", "MongoDB", "Axios", "Tailwind", "NodeJS", "ExpressJS", "Typescript", "react-hook-form"],
+            "projectUrl": "https://mdgabx-workout-record.netlify.app/",
+            "githubUrl": "https://github.com/mdgabx/workout-records",
+            "image": "workout-app.png"
         }
     ]
 }
