@@ -6,7 +6,7 @@ const Home = () => (
   <div className="container-fluid text-white m-20">
     <div className="font-poppins flex flex-col items-center justify-center">
       <h1 className=" text-5xl md:text-[70px]">
-        Hello, I'm
+        Hi, I'm
         <span className="text-green-500"> Mark</span>
       </h1>
       <br />
@@ -15,8 +15,8 @@ const Home = () => (
                 italic text-center
             "
       >
-        A web developer based in the island province of Bohol, Philippines.
-        currently having fun working with MERN + Typescript.
+       
+      A software developer located in the island province of Bohol, Philippines, currently enjoying the challenges and creativity involved in working with the MERN stack along with Typescript.
       </h2>
       <Link
         to="/contact"
